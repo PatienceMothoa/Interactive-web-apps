@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    text-decoration: hsl(hue, saturation, lightness);
+    text-decoration-color: hsl(hue, saturation, lightness);
+}
+.color-div{
+    height: 60px;
+    width: 40%;
+    border: 2px solid grey;
+    margin: auto;
+  
+}
